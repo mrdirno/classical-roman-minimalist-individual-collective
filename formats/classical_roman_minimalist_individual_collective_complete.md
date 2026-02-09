@@ -1,3 +1,5 @@
+# Chapter 1
+
 ## **CHAPTER 1**
 
 The marble was cool and unyielding beneath his cheek. A chip of it, no larger than a thumbnail, had come loose from the floor’s geometric perfection and now pressed into his temple. Lucius did not move. He counted his breaths, waiting for the echo of the guard’s hobnailed *caligae* to fade entirely from the portico outside. Ten. Twenty. The only sound was the slow drip of water from the *impluvium* into the cistern below, a measured, indifferent cadence.
@@ -131,6 +133,8 @@ He thought of the knife in his fold, the block of wood. The removal of all that 
 Some things, he knew, could not be whittled away. They had to be met. They had to be broken.
 
 The sun climbed higher. The shadow of the column, and the man within it, was swallowed by the noon.
+
+# Chapter 2
 
 ## **CHAPTER 2**
 
@@ -267,6 +271,8 @@ He could not whittle the world down. The world was doing the whittling. It was c
 Lucius Valerius looked at the pale square of the window. The collective was a wave. The individual was the stone it broke against. He had spent a lifetime being the stone.
 
 Now, he felt the first, cold touch of the wave.
+
+# Chapter 3
 
 ## **CHAPTER 3**
 
